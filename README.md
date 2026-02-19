@@ -51,11 +51,15 @@ python3 pttrainer.py
 
 ## How to run the program
 
-### 1. Detection Object
-Point the object in front of the camera and let the system detect it.
-### 2. Stop Program
-Press 'Q' to stop the program and let the system count the detected objects based on their classes.
-### 3. Calculate the Object
-Object count by class will appear in the terminal.
+### 1. Select the type of tracking you want
+In the menu there will be three options, push up, left bicep and right bicep.
+### 2. Give distance to the camera
+To maximize the calculation provide distance to the camera.
+### 3. Do your training
+Do your exercise and let the program detect your form, if it is correct the program will count your repetitions.
+### 4. Press 'Q' to stop the program
+Once you have reached the repetition you want, press q to stop the program.
+### 5. Choose another exercise
+There is a limitation in determining the next exercise, you can only choose one last exercise, if you want to choose another exercise you have to stop the program and start from the beginning.
 
 
