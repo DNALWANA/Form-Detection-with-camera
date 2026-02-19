@@ -27,18 +27,16 @@ Currently, the system supports tracking for Push-Ups, Left Bicep Curls, and Righ
 ### 4. Library
 To run this project, you need Python installed along with the following libraries:
 
-* opencv-python
+* opencv-contrib-python
 * numpy
-* gTTS
-* pygame
-* scipy
+* mediapipe==0.10.13
 
 ## Installation
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/DNALWANA/Detector-object-system.git
-    cd Detector-object-system
+    git clone https://github.com/DNALWANA/Form-Detection-with-camera.git
+    cd Form-Detection-with-camera
     ```
 
 2.  **Install requirements**
