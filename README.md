@@ -41,12 +41,12 @@ To run this project, you need Python installed along with the following librarie
 
 2.  **Install requirements**
     ```bash
-    pip install -r requirements.txt
+    pip install -r requirement.txt
     ```
 
 ## Usage
 ```bash
-python3 detectedv2.py
+python3 pttrainer.py
 ```
 
 ## How to run the program
